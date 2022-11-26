@@ -473,6 +473,8 @@ input:hover, textarea:hover{
     text-align: center;
     padding: 10px 40px;
     color: #8458a7;
+    margin-top: 10px;
+    margin-bottom: 10px;
     background-color: #ffdb5a;
     border-radius: 100px;
     border: 2px solid #8458a7;
@@ -549,6 +551,7 @@ footer{
      
     .content-contacto{
         flex-direction: column;
+        
     }
     .container-form{
         justify-content: center;
@@ -585,14 +588,18 @@ footer{
     }
     .content-contacto{
         flex-direction: column;
+        
     }
     .content-form{
         width: 350px;
+
        
     }
     .container-form{
         justify-content: center;
+      
     }
+    
     
     .name-form{
         display: flex;
