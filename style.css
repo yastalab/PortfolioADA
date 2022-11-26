@@ -531,7 +531,7 @@ footer{
 /*RESPONSIVE DESIGN TABLET*/
 
 
-@media screen and (min-width:481px) and (max-width:880px) {
+@media screen and (min-width:480px) and (max-width:880px) {
 
         .section-principal{
         flex-direction: column;
